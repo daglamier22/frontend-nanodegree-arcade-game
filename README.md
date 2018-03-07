@@ -1,6 +1,24 @@
-frontend-nanodegree-arcade-game
-===============================
+# Arcade Game Project
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+Can you cross the road? Will you become bug food? Find out now!
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## Table of Contents
+
+* [Instructions](#instructions)
+* [Contributing](#contributing)
+
+## Instructions
+
+Simply open the `index.html` file in your browser to begin playing.
+
+Use the arrow keys to move around the screen.
+
+If a bug runs into your character you will lose a point and be sent back to the starting position.
+
+If you make it to the water you will gain a point and be sent back to the starting position.
+
+## Contributing
+
+This repository is my version of a project for _all_ Udacity students taking the Front End Web Developer Nanodegree. Therefore, I most likely will not accept pull requests.
+
+For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
