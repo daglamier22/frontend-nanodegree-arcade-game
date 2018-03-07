@@ -44,6 +44,7 @@ Enemy.prototype.randomizeEnemy = function() {
 }
 
 // Check for collision by checking for rectangle overlap
+// based on code found at https://stackoverflow.com/questions/8017541/javascript-canvas-collision-detection/35847770#35847770
 Enemy.prototype.collisionCheck = function(x1, y1, w1, h1, x2, y2, w2, h2) {
   // turn widths into right side x value
   w2 += x2;
